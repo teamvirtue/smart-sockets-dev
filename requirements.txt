@@ -1,0 +1,10 @@
+coveralls
+hmmlearn==0.1.1
+pytables
+psycopg2
+future
+pvlib
+netcdf4
+siphon
+git+https://github.com/nilmtk/nilm_metadata.git#egg=nilm_metadata
+git+https://github.com/nilmtk/nilmtk.git#egg=nilmtk
