@@ -4,7 +4,8 @@ https://jortpolderdijk.github.io/VIRTUe-docs/
 
 ## DRED
 To simulate the electricity being measured in a house, the DRED dataset is user. The dataset is provided by:
-http://www.st.ewi.tudelft.nl/~akshay/dred/ 
+http://www.st.ewi.tudelft.nl/~akshay/dred/
+
 This Jupyter notebook displays the dataset and what can be done with it.
 
 ## PV CONTROL
